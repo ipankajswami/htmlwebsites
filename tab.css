@@ -1,0 +1,24 @@
+#home {
+    padding: 3px 15%;
+}
+.abtinner {
+    flex-direction: column;
+}
+.imgbox ,.abt-content{
+    width: 100%;
+}
+.courses-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.courses-box {
+    margin: 40px 24px;
+    padding: 25px 20px;
+    width: 42%;
+}
+
+.tab-full{
+    width: 100%;
+}
